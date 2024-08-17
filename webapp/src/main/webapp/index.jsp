@@ -9,6 +9,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="number"><b>number</b></label>
+    <input type="nemeric" placeholder="Enter number" name="number" id="number" required>
+    <br>
+
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
