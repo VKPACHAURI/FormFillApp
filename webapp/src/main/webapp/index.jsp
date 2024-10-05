@@ -9,6 +9,12 @@
 
     <label for="Mobile-Number"><b>Mobile-Number</b></label>
     <input type="neumeric" placeholder="Enter Mobile-Number" name="Mobile-Number" id="Mobile-Number" required>
+ 
+     <br>
+
+    <label for="Mobile-Number"><b>Mobile-Number OTP</b></label>
+    <input type="neumeric" placeholder="Enter Mobile-Number OTP" name="Mobile-Number-OTP" id="Mobile-Number-OTP" required>
+
     <br>
 
     <label for="email"><b>Email</b></label>
