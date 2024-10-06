@@ -14,6 +14,10 @@
 
     <label for="Mobile-Number"><b>Mobile-Number OTP</b></label>
     <input type="neumeric" placeholder="Enter Mobile-Number OTP" name="Mobile-Number-OTP" id="Mobile-Number-OTP" required>
+    <br>
+
+    <label for="Father name"><b>father name</b></label>
+    <input type="text" placeholder="Enter father name" name="father name" id="father name" required>
 
     <br>
 
