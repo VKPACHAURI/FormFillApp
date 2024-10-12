@@ -1,14 +1,19 @@
 <form action="action_page.php">
   <div class="container">
     <h1>E-learning Regester</h1>
-    <h1>JAI SHRI RADHEY-RADHEY</h1>
-    <p>Radhey Radhey Bolo</p>
+    
+    <p>Please Register for learning</p>
     <hr>
 
     <br>
     <label for="Mobile-Number"><b>Mobile-Number</b></label>
     <input type="neumeric" placeholder="Enter Mobile-Number" name="Mobile-Number" id="Mobile-Number" required>
- 
+     <br>
+    <label for="NAME"><b>please enter name</b></label>
+    <input type="text" placeholder="Enter name" name="NAME" id="NAME" required>
+
+
+
     <br>
     <label for="Mobile-Number"><b>Mobile-Number OTP</b></label>
     <input type="neumeric" placeholder="Enter Mobile-Number OTP" name="Mobile-Number-OTP" id="Mobile-Number-OTP" required>
